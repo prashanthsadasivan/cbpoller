@@ -1,0 +1,4 @@
+cbpoller
+========
+
+Polls Coinbase
